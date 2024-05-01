@@ -4,9 +4,7 @@
 
 ### Steps to run Code
 - Clone the repository.
-```
-git clone https://github.com/noorkhokhar99/Pothole-Detection-Pothole-Detection-using-python-and-deep-learning.git
-```
+
 - Goto the cloned folder.
 ```
 cd Pothole-Detection-Pothole-Detection-using-python-and-deep-learning
@@ -35,7 +33,7 @@ download weight: https://drive.google.com/drive/folders/1T1h2WH3_wrNb0foJuDw8w33
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Pothole-Detection-Pothole-Detection-using-python-and-deep-learning/blob/main/Pothole%20Detection%20%20Pothole%20Detection%20using%20python%20and%20yolov8.png">
+
 </p>
 
 
